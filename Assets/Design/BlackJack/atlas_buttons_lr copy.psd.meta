@@ -1,0 +1,3416 @@
+fileFormatVersion: 2
+guid: c242e8ea91137e84f8cc0b86d46ae2b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5830087263106356973
+    second: atlas_buttons_lr copy_0
+  - first:
+      213: -8485033794148527175
+    second: atlas_buttons_lr copy_1
+  - first:
+      213: 8003423809370743568
+    second: atlas_buttons_lr copy_2
+  - first:
+      213: 7923777495534379574
+    second: atlas_buttons_lr copy_3
+  - first:
+      213: -5913163521284313958
+    second: atlas_buttons_lr copy_4
+  - first:
+      213: 1213377919394087615
+    second: atlas_buttons_lr copy_5
+  - first:
+      213: -9169934011673270753
+    second: atlas_buttons_lr copy_6
+  - first:
+      213: -8452406283816792502
+    second: atlas_buttons_lr copy_7
+  - first:
+      213: 1660988584098240611
+    second: atlas_buttons_lr copy_8
+  - first:
+      213: -5913135958263181310
+    second: atlas_buttons_lr copy_9
+  - first:
+      213: 6927948649123975032
+    second: atlas_buttons_lr copy_10
+  - first:
+      213: -2019288994104713030
+    second: atlas_buttons_lr copy_11
+  - first:
+      213: 39779680845254398
+    second: atlas_buttons_lr copy_12
+  - first:
+      213: 1988721611587449043
+    second: atlas_buttons_lr copy_13
+  - first:
+      213: -348025904329716363
+    second: atlas_buttons_lr copy_14
+  - first:
+      213: -402791791159174364
+    second: atlas_buttons_lr copy_15
+  - first:
+      213: 3527165656975132700
+    second: atlas_buttons_lr copy_16
+  - first:
+      213: -5023949445713467377
+    second: atlas_buttons_lr copy_17
+  - first:
+      213: -6174160529219852260
+    second: atlas_buttons_lr copy_18
+  - first:
+      213: -5852171347104474487
+    second: atlas_buttons_lr copy_19
+  - first:
+      213: 7979210311660095479
+    second: atlas_buttons_lr copy_20
+  - first:
+      213: -3729830733587487494
+    second: atlas_buttons_lr copy_21
+  - first:
+      213: -5063737892493720459
+    second: atlas_buttons_lr copy_22
+  - first:
+      213: -9003195340932068803
+    second: atlas_buttons_lr copy_23
+  - first:
+      213: 7059577076328327871
+    second: atlas_buttons_lr copy_24
+  - first:
+      213: 3059103894240179498
+    second: atlas_buttons_lr copy_25
+  - first:
+      213: 5748956870642196972
+    second: atlas_buttons_lr copy_26
+  - first:
+      213: 5479937964984197965
+    second: atlas_buttons_lr copy_27
+  - first:
+      213: -1643610857278787265
+    second: atlas_buttons_lr copy_28
+  - first:
+      213: -759213774069024539
+    second: atlas_buttons_lr copy_29
+  - first:
+      213: 1545521505896976129
+    second: atlas_buttons_lr copy_30
+  - first:
+      213: -6656164685132161976
+    second: atlas_buttons_lr copy_31
+  - first:
+      213: -3641528783262864505
+    second: atlas_buttons_lr copy_32
+  - first:
+      213: 6510329033023067832
+    second: atlas_buttons_lr copy_33
+  - first:
+      213: -7782907747054950121
+    second: atlas_buttons_lr copy_34
+  - first:
+      213: -7347482492261137502
+    second: atlas_buttons_lr copy_35
+  - first:
+      213: -1806090810293652729
+    second: atlas_buttons_lr copy_36
+  - first:
+      213: -7131050890152307838
+    second: atlas_buttons_lr copy_37
+  - first:
+      213: 3664484184491036167
+    second: atlas_buttons_lr copy_38
+  - first:
+      213: 1552431995555591384
+    second: atlas_buttons_lr copy_39
+  - first:
+      213: -5083651815999021726
+    second: atlas_buttons_lr copy_40
+  - first:
+      213: 6094231580625685306
+    second: atlas_buttons_lr copy_41
+  - first:
+      213: 2614411172986495221
+    second: atlas_buttons_lr copy_42
+  - first:
+      213: 6283396445683688949
+    second: atlas_buttons_lr copy_43
+  - first:
+      213: -2663683343920574914
+    second: atlas_buttons_lr copy_44
+  - first:
+      213: 4250784022132915180
+    second: atlas_buttons_lr copy_45
+  - first:
+      213: -1952983413658700447
+    second: atlas_buttons_lr copy_46
+  - first:
+      213: 2931331972648042957
+    second: atlas_buttons_lr copy_47
+  - first:
+      213: -4208357286880806956
+    second: atlas_buttons_lr copy_48
+  - first:
+      213: 485270000972711854
+    second: atlas_buttons_lr copy_49
+  - first:
+      213: -2879415224701059051
+    second: atlas_buttons_lr copy_50
+  - first:
+      213: -3175092805720536758
+    second: atlas_buttons_lr copy_51
+  - first:
+      213: 4078843742579272442
+    second: atlas_buttons_lr copy_52
+  - first:
+      213: 340437409035426823
+    second: atlas_buttons_lr copy_53
+  - first:
+      213: 6626229062426748235
+    second: atlas_buttons_lr copy_54
+  - first:
+      213: -5680715275022745496
+    second: atlas_buttons_lr copy_55
+  - first:
+      213: -2546684782676814990
+    second: atlas_buttons_lr copy_56
+  - first:
+      213: 6433033349926585774
+    second: atlas_buttons_lr copy_57
+  - first:
+      213: -5994050372102453723
+    second: atlas_buttons_lr copy_58
+  - first:
+      213: -414217884763861197
+    second: atlas_buttons_lr copy_59
+  - first:
+      213: -6727263525118256174
+    second: atlas_buttons_lr copy_60
+  - first:
+      213: 6894447418447867035
+    second: atlas_buttons_lr copy_61
+  - first:
+      213: -7947130132508325290
+    second: atlas_buttons_lr copy_62
+  - first:
+      213: -4092707725714278738
+    second: atlas_buttons_lr copy_63
+  - first:
+      213: -8287486112542300995
+    second: atlas_buttons_lr copy_64
+  - first:
+      213: -3040962530835966052
+    second: atlas_buttons_lr copy_65
+  - first:
+      213: -1678093816634641233
+    second: atlas_buttons_lr copy_66
+  - first:
+      213: -7548535740405508586
+    second: atlas_buttons_lr copy_67
+  - first:
+      213: 5659883574076752992
+    second: atlas_buttons_lr copy_68
+  - first:
+      213: 5459539164953352035
+    second: atlas_buttons_lr copy_69
+  - first:
+      213: 6379146350835530429
+    second: atlas_buttons_lr copy_70
+  - first:
+      213: 6022934300545920757
+    second: atlas_buttons_lr copy_71
+  - first:
+      213: -6105865210381290700
+    second: atlas_buttons_lr copy_72
+  - first:
+      213: -3038000738207092872
+    second: atlas_buttons_lr copy_73
+  - first:
+      213: -343718621393218347
+    second: atlas_buttons_lr copy_74
+  - first:
+      213: -4506255625387165181
+    second: atlas_buttons_lr copy_75
+  - first:
+      213: 1789360215308013433
+    second: atlas_buttons_lr copy_76
+  - first:
+      213: 6582412335752050025
+    second: atlas_buttons_lr copy_77
+  - first:
+      213: 8288173953732707551
+    second: atlas_buttons_lr copy_78
+  - first:
+      213: 3865059432595123292
+    second: atlas_buttons_lr copy_79
+  - first:
+      213: -7409626428096152182
+    second: atlas_buttons_lr copy_80
+  - first:
+      213: -5950817633352916642
+    second: atlas_buttons_lr copy_81
+  - first:
+      213: -2920708747155611852
+    second: atlas_buttons_lr copy_82
+  - first:
+      213: 8326184991483654819
+    second: atlas_buttons_lr copy_83
+  - first:
+      213: -6118687987884558448
+    second: atlas_buttons_lr copy_84
+  - first:
+      213: 2513588513298551027
+    second: atlas_buttons_lr copy_85
+  - first:
+      213: 3773391270168453204
+    second: atlas_buttons_lr copy_86
+  - first:
+      213: -4083825202055135639
+    second: atlas_buttons_lr copy_87
+  - first:
+      213: 8897763501645444990
+    second: atlas_buttons_lr copy_88
+  - first:
+      213: -6056482693619972046
+    second: atlas_buttons_lr copy_89
+  - first:
+      213: -4629977002896888922
+    second: atlas_buttons_lr copy_90
+  - first:
+      213: -2770297791308381813
+    second: atlas_buttons_lr copy_91
+  - first:
+      213: -26990836659248401
+    second: atlas_buttons_lr copy_92
+  - first:
+      213: -3311508648710370210
+    second: atlas_buttons_lr copy_93
+  - first:
+      213: -5177760052880275488
+    second: atlas_buttons_lr copy_94
+  - first:
+      213: 4073959851063128780
+    second: atlas_buttons_lr copy_95
+  - first:
+      213: -1390779680620535503
+    second: atlas_buttons_lr copy_96
+  - first:
+      213: 2379102617322185047
+    second: atlas_buttons_lr copy_97
+  - first:
+      213: 5856082784536055146
+    second: atlas_buttons_lr copy_98
+  - first:
+      213: -6347895573647438385
+    second: atlas_buttons_lr copy_99
+  - first:
+      213: -170618390104433553
+    second: atlas_buttons_lr copy_100
+  - first:
+      213: -3488324354203410653
+    second: atlas_buttons_lr copy_101
+  - first:
+      213: 9165834018340890219
+    second: atlas_buttons_lr copy_102
+  - first:
+      213: -6102666051958585734
+    second: atlas_buttons_lr copy_103
+  - first:
+      213: -261246254522245345
+    second: atlas_buttons_lr copy_104
+  - first:
+      213: 3555803761524827117
+    second: atlas_buttons_lr copy_105
+  - first:
+      213: 5144341632871169061
+    second: atlas_buttons_lr copy_106
+  - first:
+      213: 8597632443869322067
+    second: atlas_buttons_lr copy_107
+  - first:
+      213: -1839078499727755698
+    second: atlas_buttons_lr copy_108
+  - first:
+      213: 5615368466327312500
+    second: atlas_buttons_lr copy_109
+  - first:
+      213: 3832135257731616246
+    second: atlas_buttons_lr copy_110
+  - first:
+      213: 138398682814669584
+    second: atlas_buttons_lr copy_111
+  - first:
+      213: 7852235421174084218
+    second: atlas_buttons_lr copy_112
+  - first:
+      213: 5453700817804259852
+    second: atlas_buttons_lr copy_113
+  - first:
+      213: 1563070527867257325
+    second: atlas_buttons_lr copy_114
+  - first:
+      213: -6585301198980162251
+    second: atlas_buttons_lr copy_115
+  - first:
+      213: 693882438921508469
+    second: atlas_buttons_lr copy_116
+  - first:
+      213: -2869016272990958264
+    second: atlas_buttons_lr copy_117
+  - first:
+      213: -5641255961287708857
+    second: atlas_buttons_lr copy_118
+  - first:
+      213: 7857307791489346060
+    second: atlas_buttons_lr copy_119
+  - first:
+      213: 6529418655033650610
+    second: atlas_buttons_lr copy_120
+  - first:
+      213: -3930960830078182392
+    second: atlas_buttons_lr copy_121
+  - first:
+      213: 2314586268301241021
+    second: atlas_buttons_lr copy_122
+  - first:
+      213: -7484879791359270421
+    second: atlas_buttons_lr copy_123
+  - first:
+      213: 8056995397988010052
+    second: atlas_buttons_lr copy_124
+  - first:
+      213: 3465670014206204321
+    second: atlas_buttons_lr copy_125
+  - first:
+      213: -5181216237257213028
+    second: atlas_buttons_lr copy_126
+  - first:
+      213: -1772128036458812491
+    second: atlas_buttons_lr copy_127
+  - first:
+      213: -1322664951815353731
+    second: atlas_buttons_lr copy_128
+  - first:
+      213: 6610162841414241538
+    second: atlas_buttons_lr copy_129
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 483
+        width: 144
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6dbf60a71a8e050800000000000000
+      internalID: 5830087263106356973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 493
+        width: 144
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3979848ba1f3a80800000000000000
+      internalID: -8485033794148527175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 422
+        width: 211
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0136278fc8fd11f60800000000000000
+      internalID: 8003423809370743568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 410
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632af8476a9e6fd60800000000000000
+      internalID: 7923777495534379574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 440
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cec0f4b1930fda0800000000000000
+      internalID: -5913163521284313958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_5
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 455
+        width: 5
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb289c7f9c8c6d010800000000000000
+      internalID: 1213377919394087615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_6
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 474
+        width: 89
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16217cc999ddb080800000000000000
+      internalID: -9169934011673270753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 452
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e02d3844503ba80800000000000000
+      internalID: -8452406283816792502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_8
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 433
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368972321540d0710800000000000000
+      internalID: 1660988584098240611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 411
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2005223dc2250fda0800000000000000
+      internalID: -5913135958263181310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_10
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 411
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f8e2d2794052060800000000000000
+      internalID: 6927948649123975032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_11
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 411
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab06887cb5b0af3e0800000000000000
+      internalID: -2019288994104713030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_12
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 439
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe4f02b8635d8000800000000000000
+      internalID: 39779680845254398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 380
+        width: 78
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0ffcfd4cb599b10800000000000000
+      internalID: 1988721611587449043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 399
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d0bcfa8409b2bf0800000000000000
+      internalID: -348025904329716363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_15
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 392
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b9381000ff86af0800000000000000
+      internalID: -402791791159174364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_16
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 396
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18c5ff2a7203f030800000000000000
+      internalID: 3527165656975132700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_17
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 417
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f086abed898574ab0800000000000000
+      internalID: -5023949445713467377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_18
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 386
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18ec95f5b9f05aa0800000000000000
+      internalID: -6174160529219852260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_19
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 415
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a5e1b7a29e8cea0800000000000000
+      internalID: -5852171347104474487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 370
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f742a6b089dbbe60800000000000000
+      internalID: 7979210311660095479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_21
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 370
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4ee2495bafc3cc0800000000000000
+      internalID: -3729830733587487494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_22
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 370
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5740a32373df9b9b0800000000000000
+      internalID: -5063737892493720459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_23
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 403
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3aca44d9893e0380800000000000000
+      internalID: -9003195340932068803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_24
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 389
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba6a0b92f7a8f160800000000000000
+      internalID: 7059577076328327871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 339
+        width: 137
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a253333b8ce147a20800000000000000
+      internalID: 3059103894240179498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_26
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 351
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce16ba780d568cf40800000000000000
+      internalID: 5748956870642196972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_27
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 354
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d436f029b86ac0c40800000000000000
+      internalID: 5479937964984197965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_28
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 379
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f313cee22a8b039e0800000000000000
+      internalID: -1643610857278787265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_29
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 351
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e83800581bb675f0800000000000000
+      internalID: -759213774069024539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_30
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 365
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f47bffe9bc27510800000000000000
+      internalID: 1545521505896976129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 329
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c92381c7d80a3a0800000000000000
+      internalID: -6656164685132161976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_32
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 329
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ba1428dd0b67dc0800000000000000
+      internalID: -3641528783262864505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_33
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 329
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6904823c5595a50800000000000000
+      internalID: 6510329033023067832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_34
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 363
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7196721c3ae8df390800000000000000
+      internalID: -7782907747054950121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_35
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 317
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a38f571a9f780a90800000000000000
+      internalID: -7347482492261137502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_36
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 310
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70379542af97fe6e0800000000000000
+      internalID: -1806090810293652729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_37
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 293
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2831d315ffa690d90800000000000000
+      internalID: -7131050890152307838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_38
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 348
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e00a553fcdad230800000000000000
+      internalID: 3664484184491036167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_39
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 315
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4ba01cca85b8510800000000000000
+      internalID: 1552431995555591384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_40
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ddb919b9d3379b0800000000000000
+      internalID: -5083651815999021726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 298
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b492e755f039450800000000000000
+      internalID: 6094231580625685306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_42
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 318
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f02cae2c11484420800000000000000
+      internalID: 2614411172986495221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_43
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 333
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5ade7c6cb133750800000000000000
+      internalID: 6283396445683688949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_44
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 288
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e4d7b8c12b80bd0800000000000000
+      internalID: -2663683343920574914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_45
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 288
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb7328eb81ddfa30800000000000000
+      internalID: 4250784022132915180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_46
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 288
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165b4a0ceeb95e4e0800000000000000
+      internalID: -1952983413658700447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_47
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 318
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc18e64f5ee2ea820800000000000000
+      internalID: 2931331972648042957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_48
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 293
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7fa8b2859e895c0800000000000000
+      internalID: -4208357286880806956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_49
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 298
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7c12cae760cb600800000000000000
+      internalID: 485270000972711854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_50
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 297
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51087d2eb134a08d0800000000000000
+      internalID: -2879415224701059051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_51
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 276
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4901226aedcfe3d0800000000000000
+      internalID: -3175092805720536758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_52
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 269
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa23c2f5c6fa9830800000000000000
+      internalID: 4078843742579272442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_53
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 308
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c9fc1150a79b400800000000000000
+      internalID: 340437409035426823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_54
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 278
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45e05a993815fb50800000000000000
+      internalID: 6626229062426748235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_55
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 297
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860422a1e8b0a21b0800000000000000
+      internalID: -5680715275022745496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_56
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 257
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273d7addeab58acd0800000000000000
+      internalID: -2546684782676814990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_57
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 279
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea58d928fb9b64950800000000000000
+      internalID: 6433033349926585774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_58
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 247
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5260905c1fad0dca0800000000000000
+      internalID: -5994050372102453723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_59
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 247
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f49074707604af0800000000000000
+      internalID: -414217884763861197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_60
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 247
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db52ea6775f3a2a0800000000000000
+      internalID: -6727263525118256174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_61
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 247
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ca133166ffdaf50800000000000000
+      internalID: 6894447418447867035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_62
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 246
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ac90c004f16b190800000000000000
+      internalID: -7947130132508325290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_63
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 268
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6bd4fe108c337c0800000000000000
+      internalID: -4092707725714278738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_64
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 216
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4eee42a4fecfc80800000000000000
+      internalID: -8287486112542300995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_65
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 233
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97df3e90b45cc5d0800000000000000
+      internalID: -3040962530835966052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_66
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 188
+        width: 61
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa476bf809636b8e0800000000000000
+      internalID: -1678093816634641233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_67
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 198
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6161acaecb63e3790800000000000000
+      internalID: -7548535740405508586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_68
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 206
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064c9ee8f12fb8e40800000000000000
+      internalID: 5659883574076752992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_69
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 206
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3679064d1fd24cb40800000000000000
+      internalID: 5459539164953352035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_70
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 206
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbaf7c3dec7478850800000000000000
+      internalID: 6379146350835530429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_71
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 210
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe2e81e5d2c59350800000000000000
+      internalID: 6022934300545920757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_72
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 216
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433bec001fb934ba0800000000000000
+      internalID: -6105865210381290700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_73
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 175
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87faac3bc6ad6d5d0800000000000000
+      internalID: -3038000738207092872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_74
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 192
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d49b252cbdda3bf0800000000000000
+      internalID: -343718621393218347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_75
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 152
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a31b542609671c0800000000000000
+      internalID: -4506255625387165181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_76
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 152
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f86a8a2a515d810800000000000000
+      internalID: 1789360215308013433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_77
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 165
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96576ade42d695b50800000000000000
+      internalID: 6582412335752050025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_78
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 165
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd402ec5c42850370800000000000000
+      internalID: 8288173953732707551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_79
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 171
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cea93731373a530800000000000000
+      internalID: 3865059432595123292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_80
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 170
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d7bf28508bb2990800000000000000
+      internalID: -7409626428096152182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_81
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 177
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e516ed824e27a6da0800000000000000
+      internalID: -5950817633352916642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_82
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 177
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fd9697ede8777d0800000000000000
+      internalID: -2920708747155611852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_83
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 178
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2729fb22d8c8370800000000000000
+      internalID: 8326184991483654819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_84
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 118
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097f0b671bd061ba0800000000000000
+      internalID: -6118687987884558448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_85
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 118
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f099ae6f6f02e220800000000000000
+      internalID: 2513588513298551027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_86
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 100
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45063f03e57cd5430800000000000000
+      internalID: 3773391270168453204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_87
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 150
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e37b2ad965357c0800000000000000
+      internalID: -4083825202055135639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_88
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 154
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77330b23c43b7b70800000000000000
+      internalID: 8897763501645444990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_89
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 127
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2380b7a241d03fba0800000000000000
+      internalID: -6056482693619972046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 88
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab6a1052740fbfb0800000000000000
+      internalID: -4629977002896888922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_91
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 132
+        width: 70
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81c30326dced89d0800000000000000
+      internalID: -2770297791308381813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_92
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 61
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe22cb02afb10aff0800000000000000
+      internalID: -26990836659248401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_93
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 61
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c0cfadd682b02d0800000000000000
+      internalID: -3311508648710370210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_94
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 105
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e70dd33aa6e428b0800000000000000
+      internalID: -5177760052880275488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_95
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 106
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc232d756ec998830800000000000000
+      internalID: 4073959851063128780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_96
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 106
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13128c7cf35f2bce0800000000000000
+      internalID: -1390779680620535503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_97
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 106
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751e0b5b935440120800000000000000
+      internalID: 2379102617322185047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_98
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 88
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d4d83044cf44150800000000000000
+      internalID: 5856082784536055146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_99
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 97
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd487dbb9eb7e7a0800000000000000
+      internalID: -6347895573647438385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_100
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 96
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c1da96a77d1adf0800000000000000
+      internalID: -170618390104433553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_101
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 46
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f9c565b7bf69fc0800000000000000
+      internalID: -3488324354203410653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_102
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 58
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66666d1a75933f70800000000000000
+      internalID: 9165834018340890219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_103
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 58
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a764c2e1f89fe4ba0800000000000000
+      internalID: -6102666051958585734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_104
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 60
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fdc486aeddf5cf0800000000000000
+      internalID: -261246254522245345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_105
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 70
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de36fa08ea0c85130800000000000000
+      internalID: 3555803761524827117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_106
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 39
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cf98e857f546740800000000000000
+      internalID: 5144341632871169061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_107
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 44
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b543ec72de05770800000000000000
+      internalID: 8597632443869322067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_108
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 49
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e463bad29d74a76e0800000000000000
+      internalID: -1839078499727755698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_109
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 61
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4789e5e5edbcded40800000000000000
+      internalID: 5615368466327312500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_110
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 61
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdc750a6ba7e2530800000000000000
+      internalID: 3832135257731616246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_111
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013ec866ed0bbe100800000000000000
+      internalID: 138398682814669584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_112
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 4
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7232db338eb8fc60800000000000000
+      internalID: 7852235421174084218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_113
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 8
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02fa74bfff6fab40800000000000000
+      internalID: 5453700817804259852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_114
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 10
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de109641d5421b510800000000000000
+      internalID: 1563070527867257325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_115
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 13
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d55df237f4c94a0800000000000000
+      internalID: -6585301198980162251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_116
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 14
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5765ccfd66a21a900800000000000000
+      internalID: 693882438921508469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_117
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 22
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d0f8186e43f28d0800000000000000
+      internalID: -2869016272990958264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_118
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 5
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f2464879b36b1b0800000000000000
+      internalID: -5641255961287708857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_119
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0aa1aa7ec3ca0d60800000000000000
+      internalID: 7857307791489346060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_120
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 30
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bde6132ca72d9a50800000000000000
+      internalID: 6529418655033650610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_121
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 36
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c1731c3fb6279c0800000000000000
+      internalID: -3930960830078182392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_122
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 30
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbaa714a2ff0f1020800000000000000
+      internalID: 2314586268301241021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_123
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 25
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1e7818c7d502890800000000000000
+      internalID: -7484879791359270421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_124
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 20
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448480e60a230df60800000000000000
+      internalID: 8056995397988010052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_125
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9db791488881030800000000000000
+      internalID: 3465670014206204321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_126
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 15
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b3cc1984f9818b0800000000000000
+      internalID: -5181216237257213028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_127
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 20
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbac52a0f22867e0800000000000000
+      internalID: -1772128036458812491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_128
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 11
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7acf2eeb33f4ade0800000000000000
+      internalID: -1322664951815353731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_buttons_lr copy_129
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 11
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d8bf505140cbb50800000000000000
+      internalID: 6610162841414241538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cc2e30a7bb4eb2a4da5a8bd6ea5c8545
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      atlas_buttons_lr copy_0: 5830087263106356973
+      atlas_buttons_lr copy_1: -8485033794148527175
+      atlas_buttons_lr copy_10: 6927948649123975032
+      atlas_buttons_lr copy_100: -170618390104433553
+      atlas_buttons_lr copy_101: -3488324354203410653
+      atlas_buttons_lr copy_102: 9165834018340890219
+      atlas_buttons_lr copy_103: -6102666051958585734
+      atlas_buttons_lr copy_104: -261246254522245345
+      atlas_buttons_lr copy_105: 3555803761524827117
+      atlas_buttons_lr copy_106: 5144341632871169061
+      atlas_buttons_lr copy_107: 8597632443869322067
+      atlas_buttons_lr copy_108: -1839078499727755698
+      atlas_buttons_lr copy_109: 5615368466327312500
+      atlas_buttons_lr copy_11: -2019288994104713030
+      atlas_buttons_lr copy_110: 3832135257731616246
+      atlas_buttons_lr copy_111: 138398682814669584
+      atlas_buttons_lr copy_112: 7852235421174084218
+      atlas_buttons_lr copy_113: 5453700817804259852
+      atlas_buttons_lr copy_114: 1563070527867257325
+      atlas_buttons_lr copy_115: -6585301198980162251
+      atlas_buttons_lr copy_116: 693882438921508469
+      atlas_buttons_lr copy_117: -2869016272990958264
+      atlas_buttons_lr copy_118: -5641255961287708857
+      atlas_buttons_lr copy_119: 7857307791489346060
+      atlas_buttons_lr copy_12: 39779680845254398
+      atlas_buttons_lr copy_120: 6529418655033650610
+      atlas_buttons_lr copy_121: -3930960830078182392
+      atlas_buttons_lr copy_122: 2314586268301241021
+      atlas_buttons_lr copy_123: -7484879791359270421
+      atlas_buttons_lr copy_124: 8056995397988010052
+      atlas_buttons_lr copy_125: 3465670014206204321
+      atlas_buttons_lr copy_126: -5181216237257213028
+      atlas_buttons_lr copy_127: -1772128036458812491
+      atlas_buttons_lr copy_128: -1322664951815353731
+      atlas_buttons_lr copy_129: 6610162841414241538
+      atlas_buttons_lr copy_13: 1988721611587449043
+      atlas_buttons_lr copy_14: -348025904329716363
+      atlas_buttons_lr copy_15: -402791791159174364
+      atlas_buttons_lr copy_16: 3527165656975132700
+      atlas_buttons_lr copy_17: -5023949445713467377
+      atlas_buttons_lr copy_18: -6174160529219852260
+      atlas_buttons_lr copy_19: -5852171347104474487
+      atlas_buttons_lr copy_2: 8003423809370743568
+      atlas_buttons_lr copy_20: 7979210311660095479
+      atlas_buttons_lr copy_21: -3729830733587487494
+      atlas_buttons_lr copy_22: -5063737892493720459
+      atlas_buttons_lr copy_23: -9003195340932068803
+      atlas_buttons_lr copy_24: 7059577076328327871
+      atlas_buttons_lr copy_25: 3059103894240179498
+      atlas_buttons_lr copy_26: 5748956870642196972
+      atlas_buttons_lr copy_27: 5479937964984197965
+      atlas_buttons_lr copy_28: -1643610857278787265
+      atlas_buttons_lr copy_29: -759213774069024539
+      atlas_buttons_lr copy_3: 7923777495534379574
+      atlas_buttons_lr copy_30: 1545521505896976129
+      atlas_buttons_lr copy_31: -6656164685132161976
+      atlas_buttons_lr copy_32: -3641528783262864505
+      atlas_buttons_lr copy_33: 6510329033023067832
+      atlas_buttons_lr copy_34: -7782907747054950121
+      atlas_buttons_lr copy_35: -7347482492261137502
+      atlas_buttons_lr copy_36: -1806090810293652729
+      atlas_buttons_lr copy_37: -7131050890152307838
+      atlas_buttons_lr copy_38: 3664484184491036167
+      atlas_buttons_lr copy_39: 1552431995555591384
+      atlas_buttons_lr copy_4: -5913163521284313958
+      atlas_buttons_lr copy_40: -5083651815999021726
+      atlas_buttons_lr copy_41: 6094231580625685306
+      atlas_buttons_lr copy_42: 2614411172986495221
+      atlas_buttons_lr copy_43: 6283396445683688949
+      atlas_buttons_lr copy_44: -2663683343920574914
+      atlas_buttons_lr copy_45: 4250784022132915180
+      atlas_buttons_lr copy_46: -1952983413658700447
+      atlas_buttons_lr copy_47: 2931331972648042957
+      atlas_buttons_lr copy_48: -4208357286880806956
+      atlas_buttons_lr copy_49: 485270000972711854
+      atlas_buttons_lr copy_5: 1213377919394087615
+      atlas_buttons_lr copy_50: -2879415224701059051
+      atlas_buttons_lr copy_51: -3175092805720536758
+      atlas_buttons_lr copy_52: 4078843742579272442
+      atlas_buttons_lr copy_53: 340437409035426823
+      atlas_buttons_lr copy_54: 6626229062426748235
+      atlas_buttons_lr copy_55: -5680715275022745496
+      atlas_buttons_lr copy_56: -2546684782676814990
+      atlas_buttons_lr copy_57: 6433033349926585774
+      atlas_buttons_lr copy_58: -5994050372102453723
+      atlas_buttons_lr copy_59: -414217884763861197
+      atlas_buttons_lr copy_6: -9169934011673270753
+      atlas_buttons_lr copy_60: -6727263525118256174
+      atlas_buttons_lr copy_61: 6894447418447867035
+      atlas_buttons_lr copy_62: -7947130132508325290
+      atlas_buttons_lr copy_63: -4092707725714278738
+      atlas_buttons_lr copy_64: -8287486112542300995
+      atlas_buttons_lr copy_65: -3040962530835966052
+      atlas_buttons_lr copy_66: -1678093816634641233
+      atlas_buttons_lr copy_67: -7548535740405508586
+      atlas_buttons_lr copy_68: 5659883574076752992
+      atlas_buttons_lr copy_69: 5459539164953352035
+      atlas_buttons_lr copy_7: -8452406283816792502
+      atlas_buttons_lr copy_70: 6379146350835530429
+      atlas_buttons_lr copy_71: 6022934300545920757
+      atlas_buttons_lr copy_72: -6105865210381290700
+      atlas_buttons_lr copy_73: -3038000738207092872
+      atlas_buttons_lr copy_74: -343718621393218347
+      atlas_buttons_lr copy_75: -4506255625387165181
+      atlas_buttons_lr copy_76: 1789360215308013433
+      atlas_buttons_lr copy_77: 6582412335752050025
+      atlas_buttons_lr copy_78: 8288173953732707551
+      atlas_buttons_lr copy_79: 3865059432595123292
+      atlas_buttons_lr copy_8: 1660988584098240611
+      atlas_buttons_lr copy_80: -7409626428096152182
+      atlas_buttons_lr copy_81: -5950817633352916642
+      atlas_buttons_lr copy_82: -2920708747155611852
+      atlas_buttons_lr copy_83: 8326184991483654819
+      atlas_buttons_lr copy_84: -6118687987884558448
+      atlas_buttons_lr copy_85: 2513588513298551027
+      atlas_buttons_lr copy_86: 3773391270168453204
+      atlas_buttons_lr copy_87: -4083825202055135639
+      atlas_buttons_lr copy_88: 8897763501645444990
+      atlas_buttons_lr copy_89: -6056482693619972046
+      atlas_buttons_lr copy_9: -5913135958263181310
+      atlas_buttons_lr copy_90: -4629977002896888922
+      atlas_buttons_lr copy_91: -2770297791308381813
+      atlas_buttons_lr copy_92: -26990836659248401
+      atlas_buttons_lr copy_93: -3311508648710370210
+      atlas_buttons_lr copy_94: -5177760052880275488
+      atlas_buttons_lr copy_95: 4073959851063128780
+      atlas_buttons_lr copy_96: -1390779680620535503
+      atlas_buttons_lr copy_97: 2379102617322185047
+      atlas_buttons_lr copy_98: 5856082784536055146
+      atlas_buttons_lr copy_99: -6347895573647438385
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
